@@ -1,1 +1,1 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=800&height=100&lines=Initializing+System...;Access+Granted...;I+am+Jhapendra+Chaudhary;DevOps+Engineer" alt="Typing SVG" />
+<p align="center"><img src="scramble.gif" alt="Scramble Effect" width="100%" /></p>
